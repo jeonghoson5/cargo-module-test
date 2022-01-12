@@ -1,0 +1,1 @@
+/Users/son/Documents/Workspace/cargo-module-test/target/debug/libm2.rlib: /Users/son/Documents/Workspace/cargo-module-test/m2/src/lib.rs /Users/son/Documents/Workspace/cargo-module-test/m2/src/module2.rs
